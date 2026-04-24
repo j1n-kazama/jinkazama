@@ -73,7 +73,8 @@ En este perfil comparto mis **contribuciones**, **proyectos destacados**, **reco
 ## 🌎 Reconocimientos
 - **Letter of Recognition / P1 Critical**  
   *National Aeronautics and Space Administration (NASA)* · **nov. 2025**
-
+- **Hall of fame / P4 Low**  
+  *Department of Homeland Security (DHS)* · **feb. 2026**
 ---
 
 ## 🎓 Certificaciones
