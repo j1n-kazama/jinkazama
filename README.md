@@ -57,9 +57,11 @@ En este perfil comparto mis **contribuciones**, **proyectos destacados**, **reco
 ## 📣 Divulgaciones y CVEs
 > Espacio reservado para futuras divulgaciones responsables y publicaciones de vulnerabilidades.
 
-| CVE | Producto / Vendor | Tipo | Estado | Referencia |
-|---|---|---|---|---|
-| — | — | — | En preparación | — |
+| CVE                                                               | Producto / Vendor                             | Tipo                                             | Estado                          | Referencia                                                                                                                                           |
+| ----------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CVE-2026-48770](https://www.cve.org/CVERecord?id=CVE-2026-48770) | Notepad++ / Notepad++                         | Lectura fuera de límites / DoS vía `WM_COPYDATA` | Corregida en Notepad++ v8.9.6.1 | [GitHub Advisory GHSA-r39g-3mcw-xcg2](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-r39g-3mcw-xcg2)                |
+| [CVE-2026-46710](https://www.cve.org/CVERecord?id=CVE-2026-46710) | Notepad++ Installer v8.9.4–v8.9.5 / Notepad++ | LPE por búsqueda insegura de `powershell.exe`    | Corregida en Notepad++ v8.9.6   | [Notepad++ v8.9.6 release](https://notepad-plus-plus.org/news/v896-released/) / [Tenable CVE-2026-46710](https://www.tenable.com/cve/CVE-2026-46710) |
+
 
 ---
 
@@ -73,8 +75,10 @@ En este perfil comparto mis **contribuciones**, **proyectos destacados**, **reco
 ## 🌎 Reconocimientos
 - **Letter of Recognition / P1 Critical**  
   *National Aeronautics and Space Administration (NASA)* · **nov. 2025**
-- **Hall of fame / P4 Low**  
+- **Hall of fame / P3 Medium**  
   *Department of Homeland Security (DHS)* · **feb. 2026**
+- **Hall of fame / P3 Medium**  
+  *Internet Brands Public* · **May. 2026**
 ---
 
 ## 🎓 Certificaciones
