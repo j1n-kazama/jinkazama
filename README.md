@@ -79,6 +79,8 @@ En este perfil comparto mis **contribuciones**, **proyectos destacados**, **reco
   *Department of Homeland Security (DHS)* · **feb. 2026**
 - **Hall of fame / P3 Medium**  
   *Internet Brands Public* · **May. 2026**
+- **Hall of fame / P2 High**  
+  *Hewlett Packard Enterprise (HPE)* · **jun. 2026**
 ---
 
 ## 🎓 Certificaciones
@@ -88,6 +90,7 @@ En este perfil comparto mis **contribuciones**, **proyectos destacados**, **reco
 |---|---|
 | **CNPen** | Certified Network Pentester |
 | **CAPen** | Certified AppSec Pentester |
+| **CAPenX** | Certified AppSec Pentesting eXpert |
 | **C-APIPen** | Certified API Pentester |
 | **CASA** | Certified API Security Analyst |
 | **CRTA** | Certified Red Team Analyst |
